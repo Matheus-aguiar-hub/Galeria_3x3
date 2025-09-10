@@ -1,0 +1,41 @@
+/* RESET CSS */
+
+body {
+    background-color: rgba(0, 0, 0, 0.473);
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 12vh;
+}
+
+h1{
+    margin-top: 0;
+    text-align: center;
+    color: #f50101a2;
+}
+
+h2{
+    margin-top: 0;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.principal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 150px;
+}
+
+
+img {
+    height: 20vh;
+    width: 20vh;
+    border-radius: 10%;
+}
